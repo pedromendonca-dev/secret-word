@@ -1,0 +1,17 @@
+h2 span {
+ color: #EFD9CE;
+ font-size: 1.5em;
+}
+
+.endGameTitle{
+  color: #B79CED;
+  font-size: 3.5em;
+  border: 5px solid #2C0735;
+  border-radius: 20px;
+  box-shadow: 8px 8px 4px rgba(255, 0, 0, 0.925);
+  text-shadow:3px 2px 4px rgba(255, 0, 0, 0.925);
+}
+
+.endGameContainer{
+  padding-top: 300px;
+}
