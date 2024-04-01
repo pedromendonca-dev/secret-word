@@ -1,0 +1,44 @@
+.Start{
+  padding: 300px 0px 0px 0px;
+}
+.Start h1{
+  text-align: left;
+  justify-content: left;
+
+  margin:0px;
+
+  font-size: 5em;
+  text-transform: uppercase;
+  color: #B79CED;
+  
+}
+
+.Start h2{  
+  text-align: left;
+  justify-content: left;
+
+  margin:0px;
+
+  font-size: 2em;
+  text-transform: uppercase;
+
+  color: #fff;
+}
+
+.Start p {
+  margin-bottom: 2em;
+  color: #fff;
+}
+
+.r-letter{
+  padding: 0px 10px;
+  border-radius: 20px;
+  
+  box-shadow: 5px 2px 4px rgba(0,0,0,0.5);;
+  text-shadow:10px 2px 4px rgba(0,0,0,0.5);
+  color: #97DFFC;
+
+  background-color: #4E148C;
+  
+  
+}
